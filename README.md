@@ -1,5 +1,5 @@
-#CloudDelivery
+# CloudDelivery
 
-CloudDelivery is a closed-source ADS Hoster. 
+CloudDelivery is a closed-source ADS hosting platform.
 
-Web domain: cloudelivery.base44.app
+**Web Domain:** cloudelivery.base44.app
